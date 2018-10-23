@@ -1,0 +1,773 @@
+﻿Log file open, 10/19/18 11:31:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RemoteMechanic
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1831648764) SRandInit(1831648764).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.430950
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.383s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am C-02445 (10.9.70.145:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.19-10.31.55:768][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-10.31.55:768][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.19-10.31.55:826][  0]LogInit: Computer: C-02445
+[2018.10.19-10.31.55:826][  0]LogInit: User: 1702376
+[2018.10.19-10.31.55:826][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.19-10.31.55:826][  0]LogInit: High frequency timer resolution =3.410078 MHz
+[2018.10.19-10.31.55:827][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.10.19-10.31.55:827][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.19-10.31.55:827][  0]LogMemory: Process Physical Memory: 276.55 MB used, 276.55 MB peak
+[2018.10.19-10.31.55:827][  0]LogMemory: Process Virtual Memory: 273.25 MB used, 273.25 MB peak
+[2018.10.19-10.31.55:827][  0]LogMemory: Physical Memory: 8519.59 MB used,  24170.51 MB free, 32690.10 MB total
+[2018.10.19-10.31.55:827][  0]LogMemory: Virtual Memory: 703.28 MB used,  24170.51 MB free, 134217728.00 MB total
+[2018.10.19-10.31.55:872][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.19-10.31.55:872][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.19-10.31.55:878][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.19-10.31.56:346][  0]LogStreaming: Display: Took  0.474s to EndInitTextLocalization.
+[2018.10.19-10.31.56:347][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.19-10.31.56:421][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.19-10.31.56:421][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.19-10.31.56:762][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.19-10.31.56:846][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.19-10.31.56:846][  0]LogD3D11RHI:       8086/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.19-10.31.56:850][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.19-10.31.56:850][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.19-10.31.56:850][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.19-10.31.56:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.19-10.31.56:872][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.19-10.31.56:872][  0]LogWindows: EnumDisplayDevices:
+[2018.10.19-10.31.56:873][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.19-10.31.56:873][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-10.31.56:874][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-10.31.56:874][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-10.31.56:874][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.19-10.31.56:874][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.19-10.31.56:874][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.19-10.31.56:874][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.19-10.31.56:874][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.10.19-10.31.56:919][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.19-10.31.56:919][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.19-10.31.56:919][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.19-10.31.56:933][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.19-10.31.56:983][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Intermediate/Shaders/WorkingDirectory/13012/).
+[2018.10.19-10.31.56:984][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1702376/AppData/Local/Temp/UnrealShaderWorkingDir/3BBBEA2C440ACC65B9335DA710266948/'.
+[2018.10.19-10.31.57:814][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.19-10.31.57:835][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.19-10.31.57:857][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.19-10.31.57:877][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.19-10.31.57:898][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.19-10.31.57:919][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.19-10.31.57:940][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.19-10.31.57:961][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.19-10.31.57:986][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.19-10.31.58:005][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.19-10.31.58:024][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.19-10.31.58:042][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.19-10.31.58:060][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.19-10.31.58:080][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.19-10.31.58:098][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.19-10.31.58:135][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.19-10.31.58:135][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.19-10.31.58:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-10.31.58:156][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.19-10.31.58:202][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.19-10.31.58:238][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.19-10.31.58:259][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.19-10.31.58:279][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.19-10.31.58:297][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.19-10.31.58:316][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.19-10.31.58:316][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.19-10.31.58:537][  0]LogXGEController: Cleaning working directory: C:/Users/1702376/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.19-10.31.58:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.19-10.31.58:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.19-10.31.58:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.19-10.31.59:571][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.19-10.31.59:689][  0]LogDerivedDataCache: Loaded boot cache 0.12s 74MB C:/Users/1702376/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.19-10.31.59:689][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1702376/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.19-10.31.59:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.19-10.31.59:689][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.19-10.31.59:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.19-10.31.59:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.19-10.31.59:706][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.19-10.31.59:719][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1702376/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.19-10.31.59:719][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.19-10.31.59:719][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.19-10.31.59:730][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.19-10.31.59:731][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.19-10.31.59:732][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.19-10.31.59:732][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.19-10.31.59:977][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2018.10.19-10.32.01:017][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-10.32.01:229][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.19-10.32.01:233][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.19-10.32.01:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.19-10.32.01:233][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.19-10.32.01:233][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.19-10.32.01:233][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.19-10.32.01:283][  0]LogNetVersion: RemoteMechanic , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1458815388)
+[2018.10.19-10.32.03:397][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 1.494885 seconds
+[2018.10.19-10.32.03:409][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.19-10.32.03:409][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.19-10.32.03:409][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.19-10.32.05:766][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.19-10.32.05:813][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.19-10.32.05:813][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.06:481][  0]SourceControl: Source control is disabled
+[2018.10.19-10.32.09:700][  0]LogSourceControl: Error: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323' is not a valid Git repository
+[2018.10.19-10.32.11:815][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.19-10.32.12:119][  0]LogOcInput: OculusInput pre-init called
+[2018.10.19-10.32.12:287][  0]LogEngine: Initializing Engine...
+[2018.10.19-10.32.12:290][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.19-10.32.12:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.19-10.32.12:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.19-10.32.12:581][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.19-10.32.12:625][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.32.12:717][  0]LogInit: FAudioDevice initialized.
+[2018.10.19-10.32.12:844][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/1702376/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.19-10.32.12:861][  0]LogInit: Texture streaming: Enabled
+[2018.10.19-10.32.12:890][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.19-10.32.12:918][  0]LogInit: Transaction tracking system initialized
+[2018.10.19-10.32.12:954][  0]BlueprintLog: New page: Editor Load
+[2018.10.19-10.32.13:134][  0]LocalizationService: Localization service is disabled
+[2018.10.19-10.32.13:323][  0]LogConsoleResponse: Display: 
+[2018.10.19-10.32.13:547][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.19-10.32.13:547][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.19-10.32.13:547][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.19-10.32.13:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.19-10.32.13:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.19-10.32.14:249][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/' took 0.02s
+[2018.10.19-10.32.14:259][  0]Cmd: MAP LOAD FILE="S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.19-10.32.14:321][  0]LightingResults: New page: Lighting Build
+[2018.10.19-10.32.14:325][  0]MapCheck: New page: Map Check
+[2018.10.19-10.32.14:325][  0]LightingResults: New page: Lighting Build
+[2018.10.19-10.32.14:478][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002361c6ba200, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.10.19-10.32.14:487][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002361c6ba200, Size=72
+[2018.10.19-10.32.14:487][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000236263df920, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.10.19-10.32.14:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002361bf21850, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.10.19-10.32.14:551][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002361bf03300, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.10.19-10.32.14:556][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002361bf03300, Size=256
+[2018.10.19-10.32.14:556][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002361bf03300, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.10.19-10.32.14:558][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002361bf00b00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.10.19-10.32.15:182][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002363fcbd900, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.10.19-10.32.15:197][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002363fcbd900, Size=688
+[2018.10.19-10.32.15:197][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000236408aee00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.10.19-10.32.15:208][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000236408ad300, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.10.19-10.32.15:370][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002364005bf90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.10.19-10.32.15:373][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002364005bf90, Size=52
+[2018.10.19-10.32.15:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002364005bf90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.10.19-10.32.15:376][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002364005b8c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.10.19-10.32.15:382][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:382][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:383][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:384][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:384][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:384][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:472][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:472][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:472][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:475][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:475][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:475][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:476][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:476][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:476][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:476][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:477][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:477][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:477][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:477][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.10.19-10.32.15:477][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Joystick
+[2018.10.19-10.32.15:480][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:481][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:481][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:481][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:482][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:482][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:482][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:483][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:483][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:483][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:484][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:484][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:484][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:484][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:497][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:497][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:497][  0]LogLinker: Warning: Can't find file '/Game/Joystick'
+[2018.10.19-10.32.15:498][  0]LogLinker: Warning: Can't find file for asset '/Game/Joystick' while loading NULL.
+[2018.10.19-10.32.15:659][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.101079ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.10.19-10.32.15:676][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.123321ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.10.19-10.32.15:969][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.32.15:994][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.19-10.32.16:009][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000236263df920, Size=72
+[2018.10.19-10.32.16:009][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002361bf03300, Size=256
+[2018.10.19-10.32.16:009][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000236408aee00, Size=688
+[2018.10.19-10.32.16:010][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002364005bf90, Size=52
+[2018.10.19-10.32.16:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.19-10.32.16:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149.576ms to complete.
+[2018.10.19-10.32.16:160][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.901
+[2018.10.19-10.32.16:380][  0]LogCollectionManager: Loaded 0 collections in 0.003552 seconds
+[2018.10.19-10.32.16:437][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/Collections/' took 0.01s
+[2018.10.19-10.32.16:437][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Developers/1702376/Collections/' took 0.01s
+[2018.10.19-10.32.16:438][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Collections/' took 0.01s
+[2018.10.19-10.32.16:438][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.19-10.32.16:461][  0]LogContentBrowser: Native class hierarchy populated in 0.0232 seconds. Added 2453 classes and 560 folders.
+[2018.10.19-10.32.16:481][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.19-10.32.16:577][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.19-10.32.16:665][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.19-10.32.16:670][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.19-10.32.16:672][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.19-10.32.16:778][  0]LogRenderer: Reallocating scene render targets to support 1016x816 Format 10 NumSamples 1 (Frame:1).
+[2018.10.19-10.32.16:956][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.19-10.32.16:956][  0]LogLoad: (Engine Initialization) Total time: 27.89 seconds
+[2018.10.19-10.32.16:956][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.19-10.32.16:966][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-10.32.16:967][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': Joystick_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Joystick
+[2018.10.19-10.32.16:967][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere': Joystick_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Joystick
+[2018.10.19-10.32.16:967][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere1': Joystick_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Joystick
+[2018.10.19-10.32.16:967][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': Joystick_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Joystick
+[2018.10.19-10.32.16:984][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.16:984][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/', and we were unable to create a new request.
+[2018.10.19-10.32.16:985][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.16:985][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Developers/1702376/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.16:985][  0]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.16:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.19-10.32.16:996][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.32.17:076][  1]LogAssetRegistry: Asset discovery search completed in 17.1217 seconds
+[2018.10.19-10.32.17:079][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.19-10.32.17:079][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.10.19-10.32.17:079][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.17:079][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/Collections/', and we were unable to create a new request.
+[2018.10.19-10.32.17:079][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Developers/1702376/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.17:080][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Developers/1702376/Collections/', and we were unable to create a new request.
+[2018.10.19-10.32.17:080][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.10.19-10.32.17:080][  1]LogDirectoryWatcher: A directory notification failed for 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/Collections/', and we were unable to create a new request.
+[2018.10.19-10.32.21:161][454]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-10.32.21:163][454]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-10.32.43:822][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.32.43:901][528]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.32.43:936][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.32.43:937][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.32.43:937][528]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:32:43)
+[2018.10.19-10.32.43:937][528]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.32.43:974][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037026s)
+[2018.10.19-10.32.43:975][528]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.32.43:975][528]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.10.19-10.32.43:975][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.038076s)
+[2018.10.19-10.32.44:004][528]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.32.44:050][528]LogInit: FAudioDevice initialized.
+[2018.10.19-10.32.44:097][528]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.32.44:102][528]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.32.44
+[2018.10.19-10.32.44:102][528]LogWorld: Bringing up level for play took: 0.002218
+[2018.10.19-10.32.44:107][528]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.10.19-10.32.44:108][528]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.402
+[2018.10.19-10.32.44:108][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.32.47:518][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.32.47:549][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.32.50:788][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.32.57:435][ 55]LogActorFactory: Actor Factory created Cylinder
+[2018.10.19-10.32.58:271][153]LogActorFactory: Actor Factory created Cylinder
+[2018.10.19-10.32.59:403][267]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.19-10.33.06:166][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.18:190][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.31:294][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.31:360][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.33.31:395][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.31:396][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.33.31:396][762]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:33:31)
+[2018.10.19-10.33.31:396][762]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.33.31:415][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018619s)
+[2018.10.19-10.33.31:415][762]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.33.31:416][762]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.10.19-10.33.31:416][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019780s)
+[2018.10.19-10.33.31:462][762]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.33.31:503][762]LogInit: FAudioDevice initialized.
+[2018.10.19-10.33.31:536][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.33.31:539][762]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.33.31
+[2018.10.19-10.33.31:539][762]LogWorld: Bringing up level for play took: 0.002189
+[2018.10.19-10.33.31:540][762]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.03
+[2018.10.19-10.33.31:540][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.33:397][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.33:432][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.34:346][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.33.35:605][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.36:736][344]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.19-10.33.36:736][344]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2018.10.19-10.33.36:736][344]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.19-10.33.36:736][344]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2018.10.19-10.33.47:141][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.53:208][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.33.53:273][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.33.53:308][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.53:308][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.33.53:309][207]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:33:53)
+[2018.10.19-10.33.53:309][207]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.33.53:327][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018733s)
+[2018.10.19-10.33.53:328][207]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.33.53:328][207]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.10.19-10.33.53:328][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019670s)
+[2018.10.19-10.33.53:368][207]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.33.53:431][207]LogInit: FAudioDevice initialized.
+[2018.10.19-10.33.53:466][207]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.33.53:469][207]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.33.53
+[2018.10.19-10.33.53:470][207]LogWorld: Bringing up level for play took: 0.002372
+[2018.10.19-10.33.53:471][207]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.96
+[2018.10.19-10.33.53:471][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.56:389][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.56:425][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.33.57:187][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.33.58:294][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.34.05:561][571]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.34.05:609][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.34.05:609][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.34.05:609][571]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:34:05)
+[2018.10.19-10.34.05:609][571]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.34.05:628][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018632s)
+[2018.10.19-10.34.05:629][571]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.34.05:629][571]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.10.19-10.34.05:629][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019506s)
+[2018.10.19-10.34.05:655][571]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.34.05:700][571]LogInit: FAudioDevice initialized.
+[2018.10.19-10.34.05:729][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.34.05:732][571]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.34.05
+[2018.10.19-10.34.05:732][571]LogWorld: Bringing up level for play took: 0.002029
+[2018.10.19-10.34.05:733][571]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.778
+[2018.10.19-10.34.05:733][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.34.07:520][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.34.07:553][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.34.08:550][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.34.10:256][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.34.12:422][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.34.15:968][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.34.28:359][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.34.51:554][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.35.03:161][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.35.06:327][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.35.20:298][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.35.37:127][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.35.37:189][122]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.35.37:231][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.35.37:231][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.35.37:231][122]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:35:37)
+[2018.10.19-10.35.37:232][122]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.35.37:250][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018788s)
+[2018.10.19-10.35.37:251][122]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.35.37:251][122]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.10.19-10.35.37:251][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019679s)
+[2018.10.19-10.35.37:282][122]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.35.37:327][122]LogInit: FAudioDevice initialized.
+[2018.10.19-10.35.37:361][122]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.35.37:363][122]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.35.37
+[2018.10.19-10.35.37:364][122]LogWorld: Bringing up level for play took: 0.002182
+[2018.10.19-10.35.37:365][122]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.853
+[2018.10.19-10.35.37:365][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.35.39:885][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.35.39:922][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.35.41:387][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.35.42:393][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.35.45:370][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.35.48:518][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.36.01:790][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.36.13:997][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.36.20:372][ 26]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.10.19-10.36.20:421][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.36.21:008][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.36.31:927][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.36.33:020][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.36.50:056][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.37.00:717][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.37.04:936][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.37.05:043][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.37.05:078][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.37.05:078][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.37.05:079][ 48]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:37:05)
+[2018.10.19-10.37.05:079][ 48]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.37.05:098][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019301s)
+[2018.10.19-10.37.05:099][ 48]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.37.05:099][ 48]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.10.19-10.37.05:099][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020186s)
+[2018.10.19-10.37.05:126][ 48]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.37.05:186][ 48]LogInit: FAudioDevice initialized.
+[2018.10.19-10.37.05:222][ 48]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.37.05:225][ 48]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.37.05
+[2018.10.19-10.37.05:225][ 48]LogWorld: Bringing up level for play took: 0.002112
+[2018.10.19-10.37.05:226][ 48]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.713
+[2018.10.19-10.37.05:226][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.37.08:431][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.37.08:469][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.37.09:555][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.37.10:807][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.37.25:562][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.37.25:810][424]Cmd: TRANSACTION UNDO
+[2018.10.19-10.37.25:810][424]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.19-10.37.25:833][424]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.19-10.37.26:226][462]Cmd: TRANSACTION UNDO
+[2018.10.19-10.37.26:226][462]LogEditorTransaction: Undo Set Location
+[2018.10.19-10.37.27:591][621]Cmd: TRANSACTION UNDO
+[2018.10.19-10.37.27:592][621]LogEditorTransaction: Undo Set Scale
+[2018.10.19-10.37.28:464][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.37.29:254][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.37.30:185][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.37.30:938][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.37.43:873][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.37.53:441][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.37.54:509][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.37.54:966][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.37.55:798][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.38.20:001][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.38.25:117][174]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.38.25:167][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.38.25:168][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.38.25:168][174]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:38:25)
+[2018.10.19-10.38.25:168][174]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.38.25:187][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019198s)
+[2018.10.19-10.38.25:188][174]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.38.25:188][174]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.10.19-10.38.25:188][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020097s)
+[2018.10.19-10.38.25:220][174]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.38.25:262][174]LogInit: FAudioDevice initialized.
+[2018.10.19-10.38.25:297][174]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.38.25:300][174]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.38.25
+[2018.10.19-10.38.25:301][174]LogWorld: Bringing up level for play took: 0.002139
+[2018.10.19-10.38.25:302][174]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.787
+[2018.10.19-10.38.25:302][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.38.28:385][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.38.28:420][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.38.29:227][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.38.30:426][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.39.07:867][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.39.07:933][581]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.39.07:969][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.07:970][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.39.07:970][581]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:39:07)
+[2018.10.19-10.39.07:970][581]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.39.07:988][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017867s)
+[2018.10.19-10.39.07:989][581]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.39.07:989][581]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.10.19-10.39.07:989][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018790s)
+[2018.10.19-10.39.08:018][581]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.39.08:061][581]LogInit: FAudioDevice initialized.
+[2018.10.19-10.39.08:095][581]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.39.08:098][581]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.39.08
+[2018.10.19-10.39.08:098][581]LogWorld: Bringing up level for play took: 0.002220
+[2018.10.19-10.39.08:099][581]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.416
+[2018.10.19-10.39.08:099][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.10:904][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.10:935][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.12:577][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.39.13:917][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.39.24:488][225]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.10.19-10.39.27:562][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.39.33:152][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.39.36:701][409]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.19-10.39.36:736][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.36:737][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.19-10.39.36:737][409]PIE: New page: PIE session: FirstPersonExampleMap (19 Oct 2018 12:39:36)
+[2018.10.19-10.39.36:737][409]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.19-10.39.36:755][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018094s)
+[2018.10.19-10.39.36:756][409]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.19-10.39.36:756][409]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.10.19-10.39.36:756][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018913s)
+[2018.10.19-10.39.36:780][409]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-10.39.36:822][409]LogInit: FAudioDevice initialized.
+[2018.10.19-10.39.36:860][409]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.19-10.39.36:865][409]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.19-11.39.36
+[2018.10.19-10.39.36:865][409]LogWorld: Bringing up level for play took: 0.003966
+[2018.10.19-10.39.36:867][409]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.352
+[2018.10.19-10.39.36:867][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.43:230][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.43:262][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.19-10.39.44:011][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.39.52:079][261]LogSavePackage: Save=7313.56ms
+[2018.10.19-10.39.52:079][261]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMapFD2E0ABE4E341E77946CFCB2CEE8D905.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.19-10.39.52:115][261]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.10.19-10.40.06:404][261]LogSavePackage: Save=13589.81ms
+[2018.10.19-10.40.06:404][261]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMap_BuiltDataCAAD2D384582603B6F50EB8ACB47FBCA.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.19-10.40.06:435][261]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.10.19-10.40.10:539][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.40.11:342][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.40.19:274][825]LogSavePackage: Save=7819.55ms
+[2018.10.19-10.40.19:274][825]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMap7FB0C758468349FDC89F20A3B65F94A2.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.19-10.40.19:321][825]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.10.19-10.40.31:148][825]LogSavePackage: Save=11638.47ms
+[2018.10.19-10.40.31:148][825]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMap_BuiltData33F08C564FFC2CBF91D616BF22F8A7FB.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.19-10.40.31:175][825]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.10.19-10.40.59:522][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.41.05:957][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-10.41.06:812][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.19-10.41.08:252][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.41.09:039][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.41.16:138][439]SourceControl: Source control is disabled
+[2018.10.19-10.41.16:138][439]LogSlate: Window 'Source Control Login' being destroyed
+[2018.10.19-10.41.18:269][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-10.41.25:617][690]LogSavePackage: Save=7184.51ms
+[2018.10.19-10.41.25:617][690]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMapE1E91E4741D7688AF4424D83A7E2C3E9.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.19-10.41.25:651][690]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.10.19-10.41.37:644][690]LogSavePackage: Save=11772.82ms
+[2018.10.19-10.41.37:644][690]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMap_BuiltDataA3EB1A7445681210AE226EA1E95E1948.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.19-10.41.37:691][690]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.10.19-10.42.00:504][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.42.05:224][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-10.42.37:312][212]LogSavePackage: Save=7161.76ms
+[2018.10.19-10.42.37:313][212]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMapC9AA829945C78D722E1784A16BD5CEE5.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.19-10.42.37:345][212]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.10.19-10.42.48:513][212]LogSavePackage: Save=11058.13ms
+[2018.10.19-10.42.48:514][212]LogSavePackage: Moving 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Saved/FirstPersonExampleMap_BuiltData83267454463301F6A90CF9B1AE926221.tmp' to 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.19-10.42.48:583][212]LogSavePackage: Display: Finished SavePackage S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.10.19-10.43.02:249][437]LogSourceControl: Error: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323' is not a valid Git repository
+[2018.10.19-10.43.17:877][891]SourceControl: Error: fatal: not a git repository: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/.git'
+[2018.10.19-10.43.17:877][891]SourceControl: Error: fatal: not a git repository: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/.git'
+[2018.10.19-10.43.17:877][891]SourceControl: Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2018.10.19-10.43.30:045][821]LogSlate: Window 'Source Control Login' being destroyed
+[2018.10.19-10.43.37:957][676]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.19-10.43.38:149][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or StrProperty /Script/Engine.PlayerController:ClientMessage.S
+[2018.10.19-10.43.38:149][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or StrProperty /Script/Engine.PlayerController:ClientTeamMessage.S
+[2018.10.19-10.43.38:149][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or StrProperty /Script/Engine.PlayerController:ServerChangeName.S
+[2018.10.19-10.43.38:150][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or StrProperty /Script/Engine.PlayerController:SetName.S
+[2018.10.19-10.43.38:150][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or FloatProperty /Script/Engine.KismetMathLibrary:HSVToRGB.S
+[2018.10.19-10.43.38:150][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or FloatProperty /Script/Engine.KismetMathLibrary:RGBToHSV.S
+[2018.10.19-10.43.38:150][676]LogUObjectHash: Warning: Ambiguous search, could be StrProperty /Script/Engine.CheatManager:ViewPlayer.S or StrProperty /Script/Engine.KismetStringLibrary:Len.S
+[2018.10.19-10.43.38:151][676]LogPackageName: Error: Illegal call to DoesPackageExist: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/RemoteMechanic.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.10.19-10.43.39:188][676]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.037 s
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: 
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 818]
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: Illegal call to DoesPackageExist: 'S:/Unreal Projects/Remote Mechanic/RemoteMechanic21312323/RemoteMechanic.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: Stack: 
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x0000000001B7B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000018DAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000018EECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x000000000114DD3B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000EA4E6A12 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000EA4E6BA7 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000E6FB50CE UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000E6F74805 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000E6F73DDD UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000E6F890B4 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000DDF64669 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000EA4EB9BC UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000ECD4DF0A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x00000000ED5E9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x0000000097B45EAC UE4Editor.exe!UnknownFunction []
+[2018.10.19-10.43.39:188][676]LogOutputDevice: Error: [Callstack] 0x0000000097B56BD0 UE4Editor.exe!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: [Callstack] 0x0000000097B56C4A UE4Editor.exe!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: [Callstack] 0x0000000097B64177 UE4Editor.exe!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: [Callstack] 0x0000000097B65B87 UE4Editor.exe!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: [Callstack] 0x0000000038031FE4 KERNEL32.dll!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: [Callstack] 0x000000003A6ACB31 ntdll.dll!UnknownFunction []
+[2018.10.19-10.43.39:189][676]LogOutputDevice: Error: 
+[2018.10.19-10.43.39:191][676]LogStats:                SubmitErrorReport -  0.000 s
